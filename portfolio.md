@@ -27,6 +27,7 @@ distributed across 12 competency areas. <br />
 12.  [Competency 12: Professional Enhancement/Development](#competency-12)
 
 --------------------------------------------------------------------------------
+ <br /> 
 ### Competency 1: Course Lecture {#competency-1}
 
 
@@ -38,7 +39,7 @@ Disorders <br /> Link to
 
 ### Competency 3: Supervision {#competency-3}
 
-#### Spring 23
+#### Spring 2023
 
 Observation 1<br /> 
 - Date: May 11, 2023<br /> 
@@ -51,6 +52,7 @@ Observation 2<br />
 - Location: Life skills classroom next to Willamette High School<br /> 
 - Observation detail: Group lesson observation<br /> 
 - Supervisor name: Steve Beard<br />
+
 Observation 3 <br /> 
 - Date: June 6, 2023<br /> 
 - Location: Life skills classroom next to Willamette High School<br /> 
@@ -59,12 +61,7 @@ Observation 3 <br />
 
 #### Fall 23
 - Practicum Supervision Credit: 1<br /> 
-- Requirements<br /> - Orientation meeting with the cooperating teacher<br /> 
--- Two in-person
-observations 
--- Mid-term meeting with the cooperating teacher 
--- Final meeting with the cooperating teacher 
--- Biweekly meetings with the supervision team
+- Requirements<br /> - Orientation meeting with the cooperating teacher<br /> - Two in-person observations <br /> - Mid-term meeting with the cooperating teacher <br /> - Final meeting with the cooperating teacher <br /> - Biweekly meetings with the supervision team
 
 ### Competency 4: Inservice {#competency-4}
 
@@ -119,30 +116,10 @@ GTFF SPED Steward<br />
 
 ### Competency 12: Professional Enhancement/Development {#competency-12}
 WWC certified reviewer in group designs training<br /> 
-a. Justification for activity<br />
-personal professional development on group designs<br />
-b. Specifications of competencies to be achieved<br />
-<br />
-c. Description of specific tasks<br />
-took WWC training and passed certification test (group design standards version 5.0)<br />
-d. List of anticipated products/outcomes<br />
-to become a WWC-certified group design reviewer<br />
-e. Timeline for completion of activities and products<br />
-completed in October 2023<br />
-f. Written personal evaluation of activity<br />
+
 
 SR Research Eye Tracking Training<br /> 
-a. Justification for activity<br />
-required to develop eye tracking experiments using Experiment Builder from SR Research<br />
-b. Specifications of competencies to be achieved<br />
-<br />
-c. Description of specific tasks<br />
-participated in SR Research trainings across 3 days<br />
-d. List of anticipated products/outcomes<br />
-be able to develop eye tracking experiments using Experiment Builder from SR Research for research<br />
-e. Timeline for completion of activities and products<br />
-completed in Fall 2023<br />
-f. Written personal evaluation of activity<br />
+
 
 
 
