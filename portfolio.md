@@ -83,11 +83,15 @@ Effects of Video Self-Modeling on Inference Skills of Students with Autism Spect
 - Faculty member: Dr. Wendy Machalicek<br /> 
 - Lee_Research_Proposal.docx <br /> 
 
+\<img src="{{"/assets/img/content/portfolio/research_proposal1.jpg" \| absolute_url }}" alt="bay" class="post-pic"/\> <br /> <br />
+
 The Use of Pictorial or Graphic Representation in Reading Comprehension Interventions for Students with Autism Spectrum Disorders: A Meta-Analysis<br /> 
 - Spring 2023<br /> 
 - PREV 640: Meta-Analysis I<br /> 
 - Faculty member: Dr. Emily Tanner-Smith<br /> 
 - Lee_Final.docx<br /> 
+
+\<img src="{{"/assets/img/content/portfolio/research_proposal2.jpg" \| absolute_url }}" alt="bay" class="post-pic"/\> <br /> <br />
 
 ### Competency 8: Research {#competency-8}
 The Use of Pictorial or Graphic Representation in Reading Comprehension Interventions for Students with Autism Spectrum Disorders: A Meta-Analysis<br /> 
@@ -119,7 +123,5 @@ WWC certified reviewer in group designs training<br />
 
 
 SR Research Eye Tracking Training<br /> 
-
-
 
 
