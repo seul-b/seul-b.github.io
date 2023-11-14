@@ -65,6 +65,4 @@ items:
     description: competency
 ---
 
-This is my "Portfolio" page , displaying your work, your interests, your projects.
-
-The Competency Portfolio represents an individualized collection of the student's research, scholarly writing, teaching, and service activities. Specific program tasks and evaluation criteria are distributed across 12 competency areas. <br /> <br />
+This is my "Competency Portfolio" page, representing a collection of research, scholarly writing, teaching, and service activities during my PhD study. Specific program tasks and evaluation criteria are distributed across 12 competency areas. <br /> <br />

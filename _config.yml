@@ -16,6 +16,8 @@ header:
     - name: Work
     - name: Publication
     - name: Blog
+    - name: Portfolio    
+
 
 footer:
   show_powered_by: true
