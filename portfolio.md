@@ -11,21 +11,22 @@ research, scholarly writing, teaching, and service activities during my
 PhD study. Specific program tasks and evaluation criteria are
 distributed across 12 competency areas. <br />
 
-#### Table of Contents
+### Table of Contents
 
-1.  [Competency 1](#competency-1)
-2.  [Competency 2](#competency-2)
-3.  [Competency 3](#competency-3)
-4.  [Competency 4](#competency-4)
-5.  [Competency 5](#competency-5)
-6.  [Competency 6](#competency-6)
-7.  [Competency 7](#competency-7)
-8.  [Competency 8](#competency-8)
-9.  [Competency 9](#competency-9)
-10.  [Competency 10](#competency-10)
-11.  [Competency 11](#competency-11)
-12.  [Competency 12](#competency-12)
+1.  [Competency 1: Course Lectre](#competency-1)
+2.  [Competency 2: Course Design](#competency-2)
+3.  [Competency 3: Supervision](#competency-3)
+4.  [Competency 4: Inservice](#competency-4)
+5.  [Competency 5: Consultation](#competency-5)
+6.  [Competency 6: Review of Professional Writing](#competency-6)
+7.  [Competency 7: Research Proposal](#competency-7)
+8.  [Competency 8: Research](#competency-8)
+9.  [Competency 9: Concept and Issues Paper](#competency-9)
+10.  [Competency 10: Grant/Contract Proposal Application](#competency-10)
+11.  [Competency 11: University Participation](#competency-11)
+12.  [Competency 12: Professional Enhancement/Development](#competency-12)
 
+--------------------------------------------------------------------------------
 ### Competency 1: Course Lecture {#competency-1}
 
 
@@ -84,6 +85,7 @@ Effects of Video Self-Modeling on Inference Skills of Students with Autism Spect
 - EDUC 650: Single Subject Research Methods 1<br /> 
 - Faculty member: Dr. Wendy Machalicek<br /> 
 - Lee_Research_Proposal.docx <br /> 
+
 The Use of Pictorial or Graphic Representation in Reading Comprehension Interventions for Students with Autism Spectrum Disorders: A Meta-Analysis<br /> 
 - Spring 2023<br /> 
 - PREV 640: Meta-Analysis I<br /> 
@@ -93,9 +95,11 @@ The Use of Pictorial or Graphic Representation in Reading Comprehension Interven
 ### Competency 8: Research {#competency-8}
 The Use of Pictorial or Graphic Representation in Reading Comprehension Interventions for Students with Autism Spectrum Disorders: A Meta-Analysis<br /> 
 - June 2023 - May 2024 <br /> 
+
 The eyes as a window on cognitive processing during reading <br /> 
 - PI: Dr. Gina Biancarosa<br /> 
 - January - December 2024 <br /> 
+
 Linking language & literacy through the eyes<br /> 
 - PI: Drs. Gina Biancarosa & Stephanie De Anda<br /> 
 - August 2023 - present<br /> 
