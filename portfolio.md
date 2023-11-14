@@ -24,23 +24,31 @@ Disorders <br /> Link to
 
 #### Spring 23
 
-##### Observation 1
+Observation 1<br /> 
+- Date: May 11, 2023<br /> 
+- Location: Life skills classroom at Charlemagne Elementary School<br /> 
+- Observation detail: It was the third observation of a student teacher, and he and his student had a one-to-one reading lesson.<br /> 
+- Supervisor name: Steve Beard<br /> 
 
-Date: May 11, 2023<br /> Location: Life skills classroom at Charlemagne
-Elementary School<br /> Observation detail: It was the third observation
-of a student teacher, and he and his student had a one-to-one reading
-lesson. <br /> Supervisor name: Steve Beard<br /> \##### Observation 2
-Date: May 24, 2023<br /> Location: Life skills classroom next to
-Willamette High School<br /> Observation detail: Group lesson
-observation<br /> Supervisor name: Steve Beard<br /> \##### Observation
-3 Date: June 6, 2023<br /> Location: Life skills classroom next to
-Willamette High School<br /> Observation detail: Final meeting
-observation<br /> Supervisor name: Steve Beard<br /> \#### Fall 23
-Practicum Supervision Credit: 1<br /> Requirements<br /> - Orientation
-meeting with the cooperating teacher<br /> - Two in-person
-observations - Mid-term meeting with the cooperating teacher - Final
-meeting with the cooperating teacher - Biweekly meetings with the
-supervision team
+Observation 2<br /> 
+- Date: May 24, 2023
+- Location: Life skills classroom next to Willamette High School<br /> 
+- Observation detail: Group lesson observation<br /> 
+- Supervisor name: Steve Beard<br />
+Observation 3 <br /> 
+- Date: June 6, 2023<br /> 
+- Location: Life skills classroom next to Willamette High School<br /> 
+- Observation detail: Final meeting observation<br /> 
+- Supervisor name: Steve Beard<br /> 
+
+#### Fall 23
+- Practicum Supervision Credit: 1<br /> 
+- Requirements<br /> - Orientation meeting with the cooperating teacher<br /> 
+-- Two in-person
+observations 
+-- Mid-term meeting with the cooperating teacher 
+-- Final meeting with the cooperating teacher 
+-- Biweekly meetings with the supervision team
 
 ### Competency 4: Inservice
 
@@ -101,42 +109,42 @@ supervision team
 +--------------------+--------------------+-----------+------------+
 
 ### Competency 7: Research Proposal
-##### Effects of Video Self-Modeling on Inference Skills of Students with Autism Spectrum Disorders
-- Winter 2022
-- EDUC 650: Single Subject Research Methods 1
-- Faculty member: Dr. Wendy Machalicek
-- Lee_Research_Proposal.docx 
-##### The Use of Pictorial or Graphic Representation in Reading Comprehension Interventions for Students with Autism Spectrum Disorders: A Meta-Analysis
-- Spring 2023
-- PREV 640: Meta-Analysis I
-- Faculty member: Dr. Emily Tanner-Smith
-- Lee_Final.docx
+Effects of Video Self-Modeling on Inference Skills of Students with Autism Spectrum Disorders<br /> 
+- Winter 2022<br /> 
+- EDUC 650: Single Subject Research Methods 1<br /> 
+- Faculty member: Dr. Wendy Machalicek<br /> 
+- Lee_Research_Proposal.docx <br /> 
+The Use of Pictorial or Graphic Representation in Reading Comprehension Interventions for Students with Autism Spectrum Disorders: A Meta-Analysis<br /> 
+- Spring 2023<br /> 
+- PREV 640: Meta-Analysis I<br /> 
+- Faculty member: Dr. Emily Tanner-Smith<br /> 
+- Lee_Final.docx<br /> 
 
 ### Competency 8: Research 
-##### The Use of Pictorial or Graphic Representation in Reading Comprehension Interventions for Students with Autism Spectrum Disorders: A Meta-Analysis
-- June 2023 - May 2024 
-##### The eyes as a window on cognitive processing during reading 
-- PI: Dr. Gina Biancarosa
-- January - December 2024 
-##### Linking language & literacy through the eyes
-- PI: Drs. Gina Biancarosa & Stephanie De Anda
-- August 2023 - present
+The Use of Pictorial or Graphic Representation in Reading Comprehension Interventions for Students with Autism Spectrum Disorders: A Meta-Analysis<br /> 
+- June 2023 - May 2024 <br /> 
+The eyes as a window on cognitive processing during reading <br /> 
+- PI: Dr. Gina Biancarosa<br /> 
+- January - December 2024 <br /> 
+Linking language & literacy through the eyes<br /> 
+- PI: Drs. Gina Biancarosa & Stephanie De Anda<br /> 
+- August 2023 - present<br /> 
 
 ### Competency 9: Concept and Issues Paper
-##### Technology based reading comprehension interventions
+Technology based reading comprehension interventions
 
 ### Competency 10: Grant/Contract Proposal Application
-##### Grant proposal: The eyes as a window on cognitive processing during reading 
-- Spencer Foundation
-- PI: Dr. Gina Biancarosa
+Grant proposal: The eyes as a window on cognitive processing during reading <br /> 
+- Spencer Foundation<br /> 
+- PI: Dr. Gina Biancarosa<br /> 
 
 ### Competency 11: University Participation
-##### GTFF SPED Steward
-- Fall 2022 - Spring 2023 
-- Fall 2023 - Spring 2024
+GTFF SPED Steward<br /> 
+- Fall 2022 - Spring 2023 <br /> 
+- Fall 2023 - Spring 2024<br /> 
 
 ### Competency 12: Professional Enhancement/Development
-##### WWC certified reviewer in group designs training
+WWC certified reviewer in group designs training<br /> 
 a. Justification for activity<br />
 personal professional development on group designs<br />
 b. Specifications of competencies to be achieved<br />
@@ -149,7 +157,7 @@ e. Timeline for completion of activities and products<br />
 completed in October 2023<br />
 f. Written personal evaluation of activity<br />
 
-##### SR Research Eye Tracking Training
+SR Research Eye Tracking Training<br /> 
 a. Justification for activity<br />
 required to develop eye tracking experiments using Experiment Builder from SR Research<br />
 b. Specifications of competencies to be achieved<br />
