@@ -22,8 +22,8 @@ footer:
   show_powered_by: true
   contact:
     - name: Email
-      value: sblee731@gmail.com
-      link: mailto:sblee731@gmail.com
+      value: blee3@uoregon.edu
+      link: mailto:blee3@uoregon.edu
   follow:
     - name: Twitter
       link: http://twitter.com/SeulbiBaileyLee
@@ -32,6 +32,8 @@ footer:
       link: http://linkedin.com/in/seulbi-bailey-lee
     - name: GitHub
       link: http://github.com/seul-b
+    - name: NameDrop
+      link: https://namedrop.io/seulbilee
 
 
 # Build settings
