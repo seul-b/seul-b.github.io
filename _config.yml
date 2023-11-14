@@ -1,7 +1,7 @@
 # For technical reasons, this file is *NOT* reloaded automatically when you use
 # 'bundle exec jekyll serve'. If you change this file, please restart the server process.
 
-title: Seulbi Lee
+title: Seulbi Bailey Lee
 description: >- # this means to ignore newlines until "baseurl:"
   # Bay is a minimal Jekyll Theme.
 # baseurl: "/bay" # the subpath of the site
@@ -16,7 +16,7 @@ header:
     - name: Work
     - name: Blog
     - name: CV
-      link: https://drive.google.com/file/d/15kQmnynekPEi68SzSoDJu4yS1v7b1YLG/view?usp=drive_link
+      link: https://drive.google.com/file/d/15kQmnynekPEi68SzSoDJu4yS1v7b1YLG/view?usp=sharing
 
 footer:
   show_powered_by: true
