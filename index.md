@@ -14,9 +14,6 @@ I am a third-year Ph.D. student in <a href="https://education.uoregon.edu/sped/g
 
 ###  Link to my <a href="https://drive.google.com/file/d/15kQmnynekPEi68SzSoDJu4yS1v7b1YLG/view?usp=drive_link">CV</a>
 
-###  Link to my <a href="https://sites.google.com/view/lee-competency?usp=sharing">PhD Portfolio</a>
-
-
 <p>
 Beyond my research pursuits, I publish quarterly columns to "Special Education in Practice" (현장특수교육) affiliated with the National Institute of Special Education (국립특수교육원) under the Ministry of Education in South Korea.
 </p>
