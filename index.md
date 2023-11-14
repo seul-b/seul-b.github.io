@@ -15,5 +15,5 @@ I am a third-year Ph.D. student in <a href="https://education.uoregon.edu/sped/g
 Beyond my research pursuits, I publish quarterly columns to "Special Education in Practice" (현장특수교육), a publication under the auspices of the National Institute of Special Education (국립특수교육원) and the Ministry of Education in South Korea.
 </p>
 <p>
-In my leisure time, I enjoy indulging in reading, exploring new places, and expanding my knowledge with intriguing facts and languages.
+In my free time, I enjoy indulging in reading, exploring new places, and expanding my knowledge with intriguing facts and languages.
 </p>
