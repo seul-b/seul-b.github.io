@@ -4,5 +4,5 @@ title: Blog
 slug: /blog
 ---
 
-Below you will see a list of blog posts.
+Blog posts are written either in Korean or English. 
 <br />
