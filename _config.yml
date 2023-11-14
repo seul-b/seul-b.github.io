@@ -16,7 +16,11 @@ header:
     - name: Work
     - name: Publication
     - name: Blog
+    - name: Portfolio
+      link: "https://sites.google.com/view/lee-competency?usp=sharing" 
     - name: CV
+      link: "https://drive.google.com/file/d/15kQmnynekPEi68SzSoDJu4yS1v7b1YLG/view?usp=drive_link" 
+
 
 footer:
   show_powered_by: true
