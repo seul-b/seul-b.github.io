@@ -14,9 +14,9 @@ header:
     - name: Home
       slug: /
     - name: Work
+    - name: Publication
     - name: Blog
     - name: CV
-      link: CV_SBL.pdf
 
 footer:
   show_powered_by: true
