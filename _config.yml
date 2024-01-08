@@ -11,12 +11,11 @@ og_image: /assets/img/profile-pic.jpg
 
 header:
   pages:
-    - name: Home
+    - name: [Home]
       slug: /
-    - name: Work
-    - name: Publication
-    - name: Blog
-    - name: Portfolio    
+    - name: [Publication]
+    - name: [Blog]
+    - name: [Portfolio]    
 
 
 footer:
