@@ -15,7 +15,11 @@ header:
       slug: /
     - name: Publication
     - name: Blog
-    - name: Portfolio    
+    - name: Portfolio
+    - text: "Shiny Apps"
+      menu:
+        - text: "Shiny Special Education Progress Monitoring Tool"
+          href: https://seul-b.shinyapps.io/sped-progress-monitor-tool/
 
 
 footer:
