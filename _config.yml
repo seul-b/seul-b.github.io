@@ -20,6 +20,8 @@ header:
       menu:
         - text: "Shiny Special Education Progress Monitoring Tool"
           href: https://seul-b.shinyapps.io/sped-progress-monitor-tool/
+    - icon: fa fa-github
+      href: https://github.com/seul-b
 
 
 footer:
@@ -34,8 +36,8 @@ footer:
       username: "@SeulbiBaileyLee"
     - name: LinkedIn
       link: http://linkedin.com/in/seulbi-bailey-lee
-    - name: GitHub
-      link: http://github.com/seul-b
+    # - name: GitHub
+    #   link: http://github.com/seul-b
 
 
 # Build settings
