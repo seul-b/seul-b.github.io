@@ -15,7 +15,7 @@ I am a Ph.D. candidate in <a href="https://education.uoregon.edu/sped/graduate/p
 ###  Link to my <a href="https://drive.google.com/file/d/1vJc0ItTJJ2prElBHM7OfCOVWhWXO6id9/view?usp=sharing">CV</a>
 
 <p>
-Beyond my research pursuits, I publish quarterly columns to "Special Education in Practice" (현장특수교육) affiliated with the National Institute of Special Education (국립특수교육원) under the Ministry of Education in South Korea.
+Beyond my research pursuits, I publish quarterly columns in "Special Education in Practice" (현장특수교육) affiliated with the National Institute of Special Education (국립특수교육원) of South Korea.
 </p>
 <p>
 In my free time, I enjoy indulging in reading (see my <a href="https://app.thestorygraph.com/profile/sseul1">StoryGraph</a> for current reads), exploring new places, and expanding my knowledge with foreign languages.
